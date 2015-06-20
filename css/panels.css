@@ -900,7 +900,7 @@ body { background: #cf0; } */
 }
 @media (max-width: 320px) {
     #menu-bottom li a {
-		font-size: 30px;
+		font-size: 15px;
 	}
     #menu-bottom .sx {
         margin:0 auto;
